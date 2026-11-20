@@ -1,0 +1,34 @@
+{
+ "region": "서울 노원구 공릉동",
+ "nameEn": "Seoul National University of Science and Technology",
+ "added": "2026-10-24",
+ "rank": 28,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SWU",
+   "campus": "서울여자대학교",
+   "km": 1.2
+  },
+  {
+   "code": "INDUK",
+   "campus": "인덕대학교",
+   "km": 2.2
+  },
+  {
+   "code": "KBU",
+   "campus": "한국성서대학교",
+   "km": 2.2
+  },
+  {
+   "code": "KW",
+   "campus": "광운대학교",
+   "km": 2.3
+  },
+  {
+   "code": "SYU",
+   "campus": "삼육대학교",
+   "km": 2.5
+  }
+ ]
+}
